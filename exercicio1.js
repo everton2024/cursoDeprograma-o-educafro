@@ -1,7 +1,7 @@
-// \\exercicioCursodePregramaçãoEducafro
+// exercicioCursodePregramaçãoEducafro
 
 let idade = 36;
 var nome = "Everton josé";
-let cidadeNatal ="itaquaquecetuba";
+let cidadeNatal = "itaquaquecetuba";
 
 console.log(nome);
